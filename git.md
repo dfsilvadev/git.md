@@ -215,6 +215,8 @@ Os demais **pushes** não precisam dessa informação
 ##### Atualizar os arquivos no branch atual
 
 	git pull
+	//ou
+	git pull --rebase
 	
 ##### Buscar as alterações, mas não aplica-las no branch atual
 
